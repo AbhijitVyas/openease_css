@@ -1,2 +1,8 @@
 #jetbrains .idea files
 .idea/*
+
+# ignore sass-cache and other artifacts
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
