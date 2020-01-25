@@ -35,17 +35,12 @@
   content: "\2716";
 }
 
-#invalid-msg{
-  font-size: 12px;
-  padding-left: 10px;
-  padding-top: 5px;
-  font-weight: bold;
+.invalid-feedback{
+  font-size: 14px;
 }
 
-.confirmpsw{
-  border-color: red;
+#feedback-msg{
+  font-size: 14px;
+  padding-top: 8px;
 }
 
-//.was-validated .confirmpsw:valid{
-//  border-color: red;
-//}
